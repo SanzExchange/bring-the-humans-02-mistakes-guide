@@ -96,6 +96,10 @@ A $1,666 bounty with a hundred skilled entrants is a lottery ticket. Newcomers b
 
 **Skip it:** rank bounties by your real chance of placing, not by the headline prize. Check how many entries exist, what the top scores look like, and whether you have the specific skill the bounty rewards.
 
+### How to verify your referral actually counts
+
+For growth bounties, ranking is driven by verified human signups through your link — not clicks, not page views. A signup only counts once the person verifies, so a dozen unverified clicks are worth less than one real person who finishes the process. After you share your link, check the bounty leaderboard: your referral count appears there, and if a friend signed up but your count did not move, ask them to confirm they used your link (https://make.fun/r/0ys1yw2z) and completed verification. Never fake signups — the platform verifies humans, and fake accounts get the entry disqualified instead of ranked.
+
 ### Mistake 9 — Submitting at the last minute
 
 GitHub can be slow to render, the CLI can hit rate limits, and the transcript bundle can take minutes to build. Newcomers who start submitting ten minutes before the deadline discover this the hard way.
